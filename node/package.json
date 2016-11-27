@@ -1,0 +1,19 @@
+{
+  "name": "beehive",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "song.yu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "4.14.0",
+    "express-session": "^1.14.2",
+    "jade": "^1.11.0",
+    "socket.io": "^1.7.0"
+  }
+}
